@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     var timer = NSTimer()
     var count = 0
+    var countMinutes = 0
     
     func updateTime() {
         
@@ -19,9 +20,26 @@ class ViewController: UIViewController {
         
         time.text = "\(count)"
         
+        if count == 60 {
+            
+            time.hidden = true
+            
+            countMinutes++
+            
+            minuteLabel.text = "\(countMinutes)"
+            time.text = "0"
+            
+            count = 0
+        }
+        
+        if count < 60 {
+            time.hidden = false
+        }
+        
     }
     
     
+    @IBOutlet weak var minuteLabel: UILabel!
     
     @IBOutlet weak var time: UILabel!
     
