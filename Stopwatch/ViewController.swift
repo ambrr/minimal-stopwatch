@@ -57,6 +57,7 @@ class ViewController: UIViewController {
         count = 0
         
         time.text = "0"
+        minuteLabel.text = "0"
         
     }
     

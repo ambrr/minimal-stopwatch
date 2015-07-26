@@ -23,19 +23,19 @@
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="APA-OW-LpG">
                                         <rect key="frame" x="15" y="14" width="49" height="108"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="90"/>
-                                        <color key="textColor" red="0.2486578267" green="0.82357587060000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        <color key="textColor" red="1" green="0.52622410829999999" blue="0.1608458546" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=":" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mge-xZ-EGa">
                                         <rect key="frame" x="116" y="29" width="18" height="78"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="65"/>
-                                        <color key="textColor" red="0.2486578267" green="0.82357587060000004" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        <color key="textColor" red="1" green="0.52622410829999999" blue="0.1608458546" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cYr-rA-hPr">
                                         <rect key="frame" x="186" y="14" width="49" height="108"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="90"/>
-                                        <color key="textColor" red="0.24865782674440862" green="0.82357587057507942" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        <color key="textColor" red="1" green="0.52622410829999999" blue="0.1608458546" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
